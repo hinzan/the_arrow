@@ -18,5 +18,4 @@
 		});
 	});
 
-//request handler//
 
